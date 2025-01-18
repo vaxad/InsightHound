@@ -5,8 +5,6 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/1efe5fc7-465c-456b-852d-fa5e00dfa559
-
 </div>
 
 ## 🌟 Overview
@@ -16,27 +14,25 @@ https://github.com/user-attachments/assets/1efe5fc7-465c-456b-852d-fa5e00dfa559
 ✅ Achieve product-market fit  
 ✅ Optimize resources  
 ✅ Adapt to market dynamics  
-✅ Enhance customer understanding  
+✅ Enhance customer understanding
 
 ---
 
 ## 📜 Table of Contents
 
-- [🚀 Features](#project-features)
-- [📥 Installation](#installation)
-- [💻 Technologies](#technologies)
-- [👥 Contributors](#contributors)
+-   [🚀 Features](#project-features)
+-   [📥 Installation](#installation)
+-   [💻 Technologies](#technologies)
+-   [👥 Contributors](#contributors)
 
 ---
+
 <h2>🚀 Demo</h2>
 
 <div align="center">
- 
 
 
 https://github.com/user-attachments/assets/c3ef2612-8370-446a-9c4e-4c113c8ccb13
-
-
 
 </div>
 
@@ -68,69 +64,75 @@ https://github.com/user-attachments/assets/c3ef2612-8370-446a-9c4e-4c113c8ccb13
 
 ## 🛠️ Project Features
 
-### 🌍 1. Customer Market Evaluation  
+### 🌍 1. Customer Market Evaluation
 
-#### **World Map with Heatmap (Customer Density)**  
-📌 Utilize **Pytrends** to visually analyze global target markets.  
+#### **World Map with Heatmap (Customer Density)**
 
-- **Steps**:  
-  - Define **vision**, **mission**, and **keywords**.  
-  - Analyze **search volumes**.  
-  - Identify customer hotspots.  
+📌 Utilize **Pytrends** to visually analyze global target markets.
 
-✨ **Benefits**:  
-- Optimize resource allocation and strategies.  
-- Understand where your customers are.  
+-   **Steps**:
+    -   Define **vision**, **mission**, and **keywords**.
+    -   Analyze **search volumes**.
+    -   Identify customer hotspots.
 
----
+✨ **Benefits**:
 
-### 🏆 2. Competitor Analysis  
-
-#### **Crunchbase Integration**  
-📊 Analyze competitors' metrics and identify market gaps.  
-
-- **Capabilities**:  
-  - Identify **competitors**.  
-  - Compare **customer density**, **pricing**, and **USPs**.  
-  - Analyze funding, reviews, and revenue.  
-
-✨ **Outcome**:  
-- Uncover gaps in the market.  
-- Generate strategies to address customer needs.  
+-   Optimize resource allocation and strategies.
+-   Understand where your customers are.
 
 ---
 
-### ✉️ 3. AI-Driven Cold Outreach Suggestions  
+### 🏆 2. Competitor Analysis
 
-#### **Email & LinkedIn Automation**  
-📬 Leverage AI to personalize outreach for investors and customers.  
+#### **Crunchbase Integration**
 
-- **Features**:  
-  - Generate **personalized emails**.  
-  - Scrape LinkedIn for relevant contacts.  
+📊 Analyze competitors' metrics and identify market gaps.
 
-✨ **Purpose**:  
-- Build relationships with stakeholders.  
-- Validate products with niche audiences.  
+-   **Capabilities**:
+    -   Identify **competitors**.
+    -   Compare **customer density**, **pricing**, and **USPs**.
+    -   Analyze funding, reviews, and revenue.
 
----
+✨ **Outcome**:
 
-### 🤖 4. LangGraph AI Assistant  
-
-💡 Integrates with **MongoDB** and **Tavily** to provide real-time market insights.  
+-   Uncover gaps in the market.
+-   Generate strategies to address customer needs.
 
 ---
 
-### 📈 5. Market Analysis  
+### ✉️ 3. AI-Driven Cold Outreach Suggestions
+
+#### **Email & LinkedIn Automation**
+
+📬 Leverage AI to personalize outreach for investors and customers.
+
+-   **Features**:
+    -   Generate **personalized emails**.
+    -   Scrape LinkedIn for relevant contacts.
+
+✨ **Purpose**:
+
+-   Build relationships with stakeholders.
+-   Validate products with niche audiences.
+
+---
+
+### 🤖 4. LangGraph AI Assistant
+
+💡 Integrates with **MongoDB** and **Tavily** to provide real-time market insights.
+
+---
+
+### 📈 5. Market Analysis
 
 📊 Evaluate **market size**, **segments**, and potential growth opportunities.
 
 ---
 
-### 📝 6. Automated Feedback Collection  
+### 📝 6. Automated Feedback Collection
 
 📱 Mobile app for user feedback.  
-💵 Users earn rewards for rating startups.  
+💵 Users earn rewards for rating startups.
 
 ---
 
@@ -142,63 +144,71 @@ https://github.com/user-attachments/assets/c3ef2612-8370-446a-9c4e-4c113c8ccb13
 git clone https://github.com/vaxad/DjDawgs_100X_Buildathon
 ```
 
-### 2️⃣ Install Dependencies  
+### 2️⃣ Install Dependencies
 
-#### Frontend  
+#### Frontend
+
 ```bash
-cd frontend 
+cd frontend
 npm i
 ```
 
-#### Backend (Node.js)  
+#### Backend (Node.js)
+
 ```bash
 cd backend
 npm i
 ```
 
-#### Backend (FastAPI)  
+#### Backend (FastAPI)
+
 ```bash
 cd aihounds
 pip install -r requirements.txt
 ```
 
-#### React Native Application  
+#### React Native Application
+
 ```bash
 cd app
 npm i
 ```
 
-### 3️⃣ Run the Project  
+### 3️⃣ Run the Project
 
-#### Frontend  
+#### Frontend
+
 ```bash
 npm run dev
 ```
 
-#### Backend (Node.js)  
+#### Backend (Node.js)
+
 ```bash
 npm run dev
 ```
 
-#### Backend (FastAPI)  
+#### Backend (FastAPI)
+
 ```bash
 uvicorn aihounds.app:app --reload
 ```
 
-#### React Native Application  
+#### React Native Application
+
 ```bash
 npx expo start
 ```
 
 ### 4️⃣. Website Credentials
 
-- **Website**: [Insight Hound](https://insight-hound.vercel.app/)
-- **Email**: `varad@gmail.com`
-- **Password**: `12345678`
+-   **Website**: [Insight Hound](https://insight-hound.vercel.app/)
+-   **Email**: `varad@gmail.com`
+-   **Password**: `12345678`
 
 ---
 
-## 💻 Technologies  
+## 💻 Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -208,9 +218,10 @@ npx expo start
 
 ---
 
-## 👥 Contributors  
+## 👥 Contributors
 
-Our team **DJDawgs**:  
+Our team **DJDawgs**:
+
 <p align="start">
 <a  href="https://github.com/vaxad/DjDawgs_100X_Buildathon/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=vaxad/DjDawgs_100X_Buildathon" alt="Contributors"/>
